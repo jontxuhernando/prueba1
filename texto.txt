@@ -1,1 +1,4 @@
 esto es una prueba
+estas son las 
+lineas añadidas
+al archivo
